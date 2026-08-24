@@ -1,5 +1,5 @@
 https://steven-xgk.github.io/COMFYUI/
-在线画布，打开就行能用，其他文件做为备份
+
 
 需要添加启动参数
 ```
