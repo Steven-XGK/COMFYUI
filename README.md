@@ -1,5 +1,3 @@
-https://steven-xgk.github.io/FYUI/
-
 
 需要添加启动参数
 ```
